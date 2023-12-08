@@ -1,38 +1,53 @@
-<mxfile host="app.diagrams.net" modified="2023-12-08T14:54:21.767Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="IDxbtdTKNDnWVO7SwFIw" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-08T15:01:35.540Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.6 Safari/605.1.15" etag="WqFvppijcYT4ZoAlp6kc" version="22.1.7" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
-    <mxGraphModel dx="1408" dy="748" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1163" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="21531" value="" style="ellipse;fillColor=#F08705;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="21531" value="" style="ellipse;fillColor=#6d8764;opacity=60;strokeColor=#3A5431;html=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="339.5" y="308.5" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="21532" value="" style="ellipse;fillColor=#12AAB5;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="21532" value="" style="ellipse;fillColor=#fa6800;opacity=60;strokeColor=#C73500;html=1;fontColor=#000000;" parent="1" vertex="1">
           <mxGeometry x="179.5" y="18.5" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="21533" value="" style="ellipse;fillColor=#e85642;opacity=60;strokeColor=none;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="21533" value="" style="ellipse;fillColor=#1ba1e2;opacity=60;strokeColor=#006EAF;html=1;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="489.5" y="18.5" width="500" height="500" as="geometry" />
         </mxCell>
-        <mxCell id="21534" value="Invention" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="299.5" y="228.5" width="190" height="70" as="geometry" />
+        <mxCell id="21534" value="Probe Dynamics" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="30" y="70" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="21535" value="Revolution" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="699.5" y="228.5" width="190" height="70" as="geometry" />
+        <mxCell id="21535" value="Link Budget" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="940" y="50" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="21536" value="Tradition" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="499.5" y="558.5" width="190" height="70" as="geometry" />
+        <mxCell id="21536" value="Probe Profile" style="text;fontSize=24;align=center;verticalAlign=middle;html=1;fontColor=#050505;" parent="1" vertex="1">
+          <mxGeometry x="499.5" y="820" width="190" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="21537" value="Military" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="569.5" y="198.5" width="40" height="40" as="geometry" />
+        <mxCell id="GAEnvp10zDDo0bYfSSqK-21540" value="Probe Power&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="310" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="21538" value="Conflict" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="449.5" y="418.5" width="40" height="40" as="geometry" />
+        <mxCell id="GAEnvp10zDDo0bYfSSqK-21541" value="Probe Radius&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="350" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="21539" value="Chaos" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="699.5" y="418.5" width="40" height="40" as="geometry" />
+        <mxCell id="GAEnvp10zDDo0bYfSSqK-21542" value="Probe Length&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="389.5" y="410" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="21540" value="Balance" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="569.5" y="348.5" width="40" height="40" as="geometry" />
+        <mxCell id="GAEnvp10zDDo0bYfSSqK-21543" value="Probe Mass" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="460" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAEnvp10zDDo0bYfSSqK-21544" value="Radioisotope Profile" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="520" y="330" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAEnvp10zDDo0bYfSSqK-21545" value="Europa gravity" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="274.5" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAEnvp10zDDo0bYfSSqK-21546" value="Ice Temperature" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="130" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAEnvp10zDDo0bYfSSqK-21548" value="Transmission Frequency" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="640" y="430" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GAEnvp10zDDo0bYfSSqK-21549" value="Deliverable Mass" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="730" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
